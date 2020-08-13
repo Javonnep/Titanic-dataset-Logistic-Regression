@@ -1,2 +1,1 @@
-# Titanic-survive-or-die
-Im going to be predicting qwhether or not passengers on the titanic survived or died using some (classification) machine learning model
+After submitting to Kaggle I got an accuracy rating of ~75%. After my first attempt of classification (ConvNet Project) I was used to seeing much higher a much higher accuracy. but I think this is a fair result considering that the dataset had a lot of information missing. Especially the ages of passengers. I think that i could predict the missing age values usingnMultiple Regression, and then after that use Logistic Regression to predict whther or not passengers survived.
